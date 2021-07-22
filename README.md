@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello There :wave:,
 
+## Iam Takshak Ramteke from :india:
+
+Currently Pursuing my Bachelors in Computer Science and Engineering
 <!--
 **TakshakRamteke/TakshakRamteke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

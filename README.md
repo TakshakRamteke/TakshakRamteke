@@ -17,7 +17,6 @@ I'm really passionate about learning new Stuff about computers and technology in
 <a href="https://twitter.com/TakshakRamteke">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<!--
 
 ## My Experience :
 

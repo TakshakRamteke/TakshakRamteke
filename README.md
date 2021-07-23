@@ -1,6 +1,6 @@
 ## Hello There :wave:, Iam Takshak 
 
-## About me :
+### About me :
 
 I'm a student from :india:, currently pursuing Bachelors in Computer Science and Engineering.<br/>
 I'm really passionate about learning new Stuff about computers and technology in general.<br/>
@@ -8,7 +8,6 @@ I'm really passionate about learning new Stuff about computers and technology in
 ### My Experience :
 
 - University Leader at Community Classsroom.<br/>
-- 
 - Campus Leader at Code for Cause.<br/>
 
 ### Volunteering Experience :

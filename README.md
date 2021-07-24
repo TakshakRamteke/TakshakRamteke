@@ -8,7 +8,6 @@ I'm really passionate about learning new Stuff about computers and technology in
 ### My Experience :
 
 - University Leader at Community Classsroom.<br/>
-- Campus Leader at Code for Cause.<br/>
 
 ### Volunteering Experience :
 

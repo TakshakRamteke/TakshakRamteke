@@ -28,3 +28,6 @@ I'm really passionate about learning new Stuff about computers and technology in
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=cobalt">

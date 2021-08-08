@@ -1,5 +1,4 @@
 ### Hello There :wave:, <br/> <br/> This is Takshak Ramteke,
-
 ### About me :
 
 I'm a student from :india:, currently pursuing Bachelors in Computer Science and Engineering.<br/>
@@ -29,5 +28,8 @@ I'm really passionate about learning new Stuff about computers and technology in
 </a>
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=cobalt">
-<img src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=cobalt">
+<img src="https://komarev.com/ghpvc/?username=TakshakRamteke&style=flat&color=blue">
+<div>
+     <img src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=cobalt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=cobalt">
+</div>

@@ -29,7 +29,8 @@ I'm really passionate about learning new Stuff about computers and technology in
 <br/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=TakshakRamteke&style=flat&color=blue">
-<div>
-     <img src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=cobalt">
+<div>    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=cobalt">
+    <img src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=cobalt">
+
 </div>

@@ -10,6 +10,7 @@ I'm really passionate about learning new Stuff about computers and technology in
 
 ### Volunteering Experience :
 
+- Student Representative at IEEE PES HAC Executive Commitee <br/>
 - WebMaster at IEEE Sbjain student branch.<br/>
 - Coordinator at Technical and Website Team of Students Activites Committee under IEEE Nagpur SubSection.<br/>
 - Web Developer at IEEE Bombay Sction Website Team.<br/>

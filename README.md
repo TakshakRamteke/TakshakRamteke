@@ -29,7 +29,7 @@ I'm really passionate about learning new Stuff about computers and technology in
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
-<br/>
+<h4>Here's <a href="https://drive.google.com/file/d/114-E6eUIpSlS7k7y_deowge0Z_5EM6wK/view?usp=sharing">My Resume</a></h4><br/>
 <img src="https://komarev.com/ghpvc/?username=TakshakRamteke&style=flat&color=blue">
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight">

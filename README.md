@@ -1,14 +1,15 @@
-### Hello There :wave:, <br/> <br/> This is [Takshak Ramteke](https://takshakramteke.github.io),
+### Hello There :wave:, <br/> <br/>This is [Takshak Ramteke](https://takshakramteke.github.io) 🤠
+
 ### About me :
 
-I'm a student from :india:, currently pursuing Bachelors in Computer Science and Engineering.<br/>
-I'm really passionate about learning new Stuff about computers and technology in general.<br/>
+👨‍🎓 I'm a student from :india:, currently pursuing Bachelors in Computer Science and Engineering.<br/>
+🖥️ I'm really passionate about learning new Stuff about computers and technology in general.<br/>
 
-### My Experience :
+### 🦾 My Experience :
 
 - University Leader at Community Classsroom.<br/>
 
-### Volunteering Experience :
+### 🙌 Volunteering Experience :
 
 - Contributor at GWOC'21 <br/>
 - Student Representative at IEEE PES HAC Executive Commitee <br/>
@@ -16,20 +17,25 @@ I'm really passionate about learning new Stuff about computers and technology in
 - Coordinator at Technical and Website Team of Students Activites Committee under IEEE Nagpur SubSection.<br/>
 - Web Developer at IEEE Bombay Sction Website Team.<br/>
 
-### Contact me:
+### 🤙 Contact me:
 
 <a href="https://www.linkedin.com/in/takshak-ramteke-15b840206/">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="takshakramteke0708@gmail.com?subject=Hello%20Harsh,%20From%20Github">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="mailto:takshakramteke0708@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+
+<a href="https://twitter.com/TakshakRamteker">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://twitter.com/TakshakRamteke">
-    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <br/>
-<h4>Here's <a href="https://drive.google.com/file/d/114-E6eUIpSlS7k7y_deowge0Z_5EM6wK/view?usp=sharing">My Resume</a></h4><br/>
+
+### Here's [My Resume](https://drive.google.com/file/d/114-E6eUIpSlS7k7y_deowge0Z_5EM6wK/view?usp=sharing)
+
+### 😄 And ofcourse Some Stats
 <img src="https://komarev.com/ghpvc/?username=TakshakRamteke&style=flat&color=blue">
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight">

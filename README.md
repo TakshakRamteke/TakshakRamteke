@@ -35,7 +35,7 @@
 
 <br/>
 
-### Here's [My Resume](https://drive.google.com/file/d/1FAI6N8qeVGsQBaLZ9hTZqZsR_TUnNnzi/view?usp=sharing)
+### Here's [My Resume](https://drive.google.com/file/d/16SiIBa21io3jGjcAN57uQb9A1t9srUnr/view?usp=sharing)
 
 ### 😄 And ofcourse Some Stats
 <img src="https://komarev.com/ghpvc/?username=TakshakRamteke&style=flat&color=blue">

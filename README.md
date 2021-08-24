@@ -39,13 +39,10 @@
 
 ### 😄 And ofcourse Some Stats
 <img src="https://komarev.com/ghpvc/?username=TakshakRamteke&style=flat&color=blue">
-<div>
+<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight">
-</div>
-<p align=center>
-    <img src="https://activity-graph.herokuapp.com/graph?username=TakshakRamteke&theme=react-dark"/>
 </p>
-<p align=center>
+<p>
     <img width=48% src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=tokyonight" />
     <img width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=TakshakRamteke&theme=tokyonight" />
 </p>

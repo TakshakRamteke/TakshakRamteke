@@ -1,6 +1,7 @@
-### Hello There :wave:, <br/> <br/>This is [Takshak Ramteke](https://takshakramteke.github.io) 🤠
+<a src="https://takshakramteke.github.io"><img src="./images/banner.svg"></a><br/>
+<br/>
 
-### 👏 About me :
+### 👏 Little About [me](https://takshakramteke.github.io) :
 
 👨‍🎓 I'm a student from :india:, currently pursuing Bachelors in Computer Science and Engineering.<br/>
 🖥️ I'm really passionate about learning new Stuff about computers and technology in general.<br/>

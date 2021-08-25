@@ -1,5 +1,4 @@
-<a src="https://takshakramteke.github.io"><img src="./images/banner.svg"></a><br/>
-<br/>
+<a src="https://takshakramteke.github.io"><img src="./images/banner.png"></a><br/>
 
 ### 👏 Little About [me](https://takshakramteke.github.io) :
 

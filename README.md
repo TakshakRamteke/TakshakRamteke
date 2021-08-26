@@ -15,7 +15,7 @@
 
 - Contributor at GWOC'21 <br/>
 - Student Representative at IEEE PES HAC Executive Commitee <br/>
-- WebMaster at IEEE Sbjain student branch.<br/>
+- WebMaster at IEEE S. B. Jain student branch.<br/>
 - Coordinator at Technical and Website Team of Students Activites Committee under IEEE Nagpur SubSection.<br/>
 - Web Developer at IEEE Bombay Sction Website Team.<br/>
 

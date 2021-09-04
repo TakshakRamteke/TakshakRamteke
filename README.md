@@ -38,7 +38,6 @@
 ### Here's [My Resume](https://drive.google.com/file/d/16SiIBa21io3jGjcAN57uQb9A1t9srUnr/view?usp=sharing)
 
 ### 😄 And ofcourse Some Stats
-<img src="https://komarev.com/ghpvc/?username=TakshakRamteke&style=flat&color=blue">
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight">
 </p>

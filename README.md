@@ -19,7 +19,7 @@
 - Coordinator at Technical and Website Team of Students Activites Committee under IEEE Nagpur SubSection.<br/>
 - Web Developer at IEEE Bombay Sction Website Team.<br/>
 
-### 🤙 Contact me:
+### 🤙 Connect with me:
 
 <a href="https://www.linkedin.com/in/takshak-ramteke-15b840206/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

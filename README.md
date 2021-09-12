@@ -9,12 +9,12 @@
 
 ### 🦾 My Experience :
 
-- University Leader at Community Classsroom.<br/>
+- Contributor at GWOC'21 <br/> 
 
 ### 🙌 Volunteering Experience :
 
-- Contributor at GWOC'21 <br/>
 - Student Representative at IEEE PES HAC Executive Commitee <br/>
+- University Leader at Community Classsroom.<br/>
 - WebMaster at IEEE S. B. Jain student branch.<br/>
 - Coordinator at Technical and Website Team of Students Activites Committee under IEEE Nagpur SubSection.<br/>
 - Web Developer at IEEE Bombay Sction Website Team.<br/>

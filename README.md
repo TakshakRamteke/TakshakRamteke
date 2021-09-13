@@ -7,9 +7,6 @@
 💙 In love with Anime, Manga.<br/>
 🎨 Also love making Sketche's sometimes.
 
-### 🦾 My Experience :
-
-- Contributor at GWOC'21 <br/> 
 
 ### 🙌 Volunteering Experience :
 

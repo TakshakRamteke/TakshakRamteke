@@ -1,6 +1,6 @@
-<a href="https://takshakramteke.github.io"><img src="./images/banner.png"></a><br/>
+<a href="https://takshakramteke.vercel.app"><img src="./images/banner.png"></a><br/>
 
-### 👏 Little About [me](https://takshakramteke.github.io) :
+### 👏 Little About [me](https://takshakramteke.vercel.app) :
 
 👨‍🎓 I'm a student from :india:, currently pursuing Bachelors in Computer Science and Engineering.<br/>
 🖥️ I'm really passionate about learning new Stuff about computers and technology in general.<br/>

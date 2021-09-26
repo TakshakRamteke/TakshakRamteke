@@ -32,7 +32,7 @@
 
 <br/>
 
-### Here's [My Resume](https://drive.google.com/file/d/1HtIcaywIU4wXDGk6f9RmWEQzVz31JtP1/view?usp=sharing)
+### Here's [My Resume](https://drive.google.com/file/d/1mtKhBJ0YEbpr5sF7ltM9a6vzElqjIo-R/view?usp=sharing)
 
 ### 😄 And ofcourse Some Stats
 <p>

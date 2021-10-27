@@ -18,16 +18,16 @@
 
 ### 🤙 Connect with me:
 
-<a href="https://www.linkedin.com/in/takshak-ramteke-15b840206/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://twitter.com/TakshakRamteker">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href="takshakramteke0708@gmail.com?subject=Hello%20Takshak,">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/TakshakRamteker">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://www.linkedin.com/in/takshak-ramteke-15b840206/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/>
@@ -36,7 +36,7 @@
 
 ### 😄 And ofcourse Some Stats
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight&layout=compact">
 </p>
 <p>
     <img width=48% src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=tokyonight" />

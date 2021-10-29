@@ -1,4 +1,4 @@
-<a href="https://takshakramteke.vercel.app"><img src="./images/banner.png"></a><br/>
+[![img](./images/banner.png)](takshakramteke.vercel.app)
 
 ### 👏 Little About [me](https://takshakramteke.vercel.app) :
 
@@ -35,9 +35,9 @@
 ### Here's [My Resume](https://drive.google.com/file/d/1RkPKeYdRro9b0eOpbUw2NBgFVNd_KgWa/view?usp=sharing)
 
 ### 😄 And ofcourse Some Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight&layout=compact">
-</p>
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight&layout=compact)
+
 <p>
     <img width=48% src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=tokyonight" />
     <img width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=TakshakRamteke&theme=tokyonight" />

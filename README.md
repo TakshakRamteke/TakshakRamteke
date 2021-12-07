@@ -1,4 +1,4 @@
-[![img](./images/banner.png)](takshakramteke.vercel.app)
+[![TakshakRamteke](./images/banner.png)](takshakramteke.vercel.app)
 
 ### 👏 Little About [me](https://takshakramteke.vercel.app) :
 

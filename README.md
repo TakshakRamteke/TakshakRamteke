@@ -36,7 +36,7 @@
 
 <br/>
 
-### Here's [My Resume](https://drive.google.com/file/d/1RkPKeYdRro9b0eOpbUw2NBgFVNd_KgWa/view?usp=sharing)
+### Here's [My Resume](https://drive.google.com/file/d/1oPVOMhmW87ZLjEMMQbNatiNWZHXrMX_t/view?usp=sharing)
 
 ### 😄 And ofcourse Some Stats
 

@@ -34,6 +34,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://www.instagram.com/takshak_ramteke/">
+    <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 <br/>
 
 ### Here's [My Resume](https://drive.google.com/file/d/1oPVOMhmW87ZLjEMMQbNatiNWZHXrMX_t/view?usp=sharing)

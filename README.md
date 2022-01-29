@@ -40,7 +40,7 @@
 
 <br/>
 
-### Here's [My Resume](https://drive.google.com/file/d/1Z87Dpp15xVoGKV46Zhis7ekKw99HubnB/view?usp=sharing)
+### Here's [My Resume](https://drive.google.com/file/d/11CygybhdpM5XMqE23PSpTggp4mpAG1eV/view?usp=sharing)
 
 ### 😄 And ofcourse Some Stats
 

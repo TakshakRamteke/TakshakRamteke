@@ -8,15 +8,6 @@
 💙 In love with Anime, Manga.<br/>
 🎨 Also love making Sketche's sometimes.
 
-
-### 🙌 Volunteering Experience :
-
-- Student Representative at IEEE PES HAC Executive Commitee <br/>
-- University Leader at Community Classsroom.<br/>
-- WebMaster at IEEE S. B. Jain student branch.<br/>
-- Coordinator at Technical and Website Team of Students Activites Committee under IEEE Nagpur SubSection.<br/>
-- Web Developer at IEEE Bombay Sction Website Team.<br/>
-
 ### 🤙 Connect with me:
 
 <a href="https://twitter.com/TakshakRamteker">

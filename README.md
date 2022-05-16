@@ -34,8 +34,6 @@
 
 ### Here's [My Resume](https://drive.google.com/file/d/1Z87Dpp15xVoGKV46Zhis7ekKw99HubnB/view?usp=sharing),
 
-### My [linux rice](https://user-images.githubusercontent.com/44837950/150647848-702d7343-97ae-4e2f-b71b-bc92f2a3fd74.png) which i call "albion" & [.dotfiles](https://github.com/TakshakRamteke/.dotfiles) for the same
-
 ### 😄 And ofcourse Some Stats
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight&layout=compact)

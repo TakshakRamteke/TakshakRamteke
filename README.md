@@ -2,7 +2,7 @@
 
 ## Hey There :wave:, I'm Takshak Ramteke
 
-**Here's a litle something about me** <br/>
+**Here's a litle about me** <br/>
 :person_curly_hair: I'm A Fun Loving, Enthusiastic & Passionate Developer <br/>
 :factory_worker: Currently I work as a freelance fullstack developer and designer <br/>
 :student: Also i am currently pursuing my bachelors in Computer science and engineerig (senior year) <br/>

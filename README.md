@@ -44,7 +44,3 @@ but it's not like i do tech all the time
     <img width=46% src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=tokyonight" />
     <img width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=TakshakRamteke&theme=tokyonight" />
 </p>
-
-
-**🙂 Ohh By the way here's [My Resume](https://drive.google.com/file/d/1Z87Dpp15xVoGKV46Zhis7ekKw99HubnB/view?usp=sharing),**
-😁 please let me know if you have any roles i can apply too

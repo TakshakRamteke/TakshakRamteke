@@ -24,6 +24,18 @@ but it's not like i do tech all the time
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
+<a href="https://dev.to/takshakramteke">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+<a href="https://hashnode.com/@TakshakRamteke">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+</a>
+
+<a href="https://www.showwcase.com/takshakramteke">
+    <img src="https://img.shields.io/badge/Showwcase-000000?style=for-the-badge&logo=showwcase&logoColor=white&"/>
+</a>
+
 <a href="takshakramteke0708@gmail.com?subject=Hello%20Takshak,">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>

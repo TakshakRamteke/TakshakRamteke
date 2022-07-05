@@ -56,3 +56,5 @@ but it's not like i do tech all the time
     <img width=46% src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=tokyonight" />
     <img width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=TakshakRamteke&theme=tokyonight" />
 </p>
+
+*Here's [my resume](https://drive.google.com/file/d/1TB2LpyWScNBK34Vz4w1FFhVWBpFu4Pve/view?usp=sharing)*

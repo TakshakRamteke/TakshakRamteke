@@ -36,6 +36,10 @@ but it's not like i do tech all the time
     <img src="https://img.shields.io/badge/Showwcase-000000?style=for-the-badge&logo=showwcase&logoColor=white&"/>
 </a>
 
+<a href="https://www.behance.net/takshakramteke">
+    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
 <a href="takshakramteke0708@gmail.com?subject=Hello%20Takshak,">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>

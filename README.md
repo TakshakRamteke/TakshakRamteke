@@ -16,7 +16,7 @@ but it's not like i do tech all the time
 
 ### 🤙 Connect with me:
 
-<a href="https://twitter.com/TakshakRamteker">
+<a href="https://twitter.com/TakshakRamteke">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 

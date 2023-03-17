@@ -5,7 +5,6 @@
 **Here's a litle about me** <br/>
 :person_curly_hair: I'm A Fun Loving, Enthusiastic & Passionate Developer <br/>
 :factory_worker: Currently I work as a freelance fullstack developer and designer <br/>
-:student: Also i am currently pursuing my bachelors in Computer science and engineerig (senior year) <br/>
 
 but it's not like i do tech all the time
 

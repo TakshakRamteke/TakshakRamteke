@@ -54,7 +54,6 @@ but it's not like i do tech all the time
 <br/>
 
 ### 📈 And ofcourse Some Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshakRamteke&langs_count=8&theme=tokyonight&layout=compact"/>
 <p>
     <img width=46% src="https://github-readme-stats.vercel.app/api?username=TakshakRamteke&show_icons=true&theme=tokyonight" />
     <img width=46% src="https://github-readme-streak-stats.herokuapp.com/?user=TakshakRamteke&theme=tokyonight" />

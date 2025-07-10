@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/44837950/208842979-38414912-1d95-42b2-aaca-74d497780d0a.png)
+<!--![banner](https://user-images.githubusercontent.com/44837950/208842979-38414912-1d95-42b2-aaca-74d497780d0a.png)-->
 
 ## Hey There :wave:, I'm Takshak Ramteke
 

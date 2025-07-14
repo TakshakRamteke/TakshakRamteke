@@ -59,4 +59,5 @@ but it's not like i do tech all the time
     <img width=46% src="https://github-readme-streak-stats-snowy.vercel.app/?user=TakshakRamteke&theme=tokyonight" />
 </p>
 
-*BTW Here's [my resume](https://drive.google.com/file/d/1K64dRkO6ISHBYVS9uX7wcJeboav4uRy3/view?usp=drivesdk)*
+*BTW Here's [my resume](https://drive.google.com/file/d/15QIPSZZon9O_9BLocaWR4ftygSuP3uac/view?usp=sharing)*
+
